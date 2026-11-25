@@ -1,4 +1,4 @@
-# Supply Chain Analytics
+# Supply Chain Intelligence Analytics
 
 A MySQL-based data analysis project focused on understanding supply
 chain operations through sales, customer, product, order, shipping,
